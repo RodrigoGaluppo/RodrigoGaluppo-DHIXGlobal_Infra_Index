@@ -1,0 +1,145 @@
+country,score idh,score infra
+Netherlands,0.944,0.9714
+Singapore,0.938,0.9571
+Hong Kong,0.949,0.9286
+Finland,0.938,0.8857
+United Arab Emirates,0.89,0.8857
+Panama,0.815,0.8857
+Belgium,0.931,0.8714
+Iceland,0.949,0.8429
+United States,0.926,0.8286
+Denmark,0.94,0.8143
+Estonia,0.892,0.8
+Qatar,0.848,0.8
+Norway,0.957,0.7857
+United Kingdom,0.932,0.7857
+Germany,0.947,0.7857
+Spain,0.904,0.7857
+New Zealand,0.931,0.7857
+Sweden,0.945,0.7857
+Malaysia,0.81,0.7714
+Canada,0.929,0.7714
+Japan,0.919,0.7571
+Malta,0.895,0.7571
+Barbados,0.814,0.7571
+Korea,0.916,0.7429
+Namibia,0.646,0.7429
+Portugal,0.864,0.7429
+Ireland,0.955,0.7286
+France,0.901,0.7286
+Latvia,0.866,0.7286
+Bahrain,0.852,0.7286
+Morocco,0.686,0.7143
+Slovenia,0.917,0.7143
+Uruguay,0.817,0.7
+Jamaica,0.734,0.7
+Chile,0.851,0.7
+Australia,0.944,0.7
+Dominican Republic,0.756,0.6857
+Lithuania,0.882,0.6857
+South Africa,0.709,0.6857
+Azerbaijan,0.756,0.6714
+Saudi Arabia,0.854,0.6714
+Israel,0.919,0.6714
+Egypt,0.707,0.6714
+Ecuador,0.759,0.6571
+Cyprus,0.887,0.6571
+China,0.761,0.6571
+India,0.645,0.6571
+Croatia,0.851,0.6571
+Oman,0.813,0.6571
+Luxembourg,0.916,0.6571
+Jordan,0.729,0.6429
+Turkey,0.82,0.6429
+Seychelles,0.796,0.6429
+Kenya,0.601,0.6429
+Greece,0.888,0.6429
+Sri Lanka,0.782,0.6429
+Switzerland,0.955,0.6429
+Suriname,0.738,0.6286
+Senegal,0.512,0.6286
+Italy,0.892,0.6286
+Honduras,0.634,0.6286
+Thailand,0.777,0.6143
+Mexico,0.779,0.6143
+Russia,0.824,0.6
+Mauritius,0.804,0.6
+Poland,0.88,0.6
+Montenegro,0.829,0.5857
+Bulgaria,0.816,0.5857
+Georgia,0.812,0.5857
+Albania,0.795,0.5857
+Indonesia,0.718,0.5714
+Iran,0.783,0.5714
+Pakistan,0.557,0.5714
+Brunei,0.838,0.5571
+Benin,0.545,0.5571
+Austria,0.922,0.5571
+Trinidad and Tobago,0.796,0.5429
+Kuwait,0.806,0.5429
+Colombia,0.767,0.5429
+Vietnam,0.704,0.5286
+Argentina,0.845,0.5286
+Peru,0.777,0.5286
+Cambodia,0.594,0.5286
+Mozambique,0.456,0.5143
+North Macedonia,0.774,0.5143
+Madagascar,0.528,0.5143
+Ghana,0.611,0.5143
+Bangladesh,0.632,0.5143
+Eswatini,0.611,0.5143
+Guyana,0.682,0.5143
+Guatemala,0.663,0.5143
+Ukraine,0.779,0.5
+Romania,0.828,0.5
+Czech Republic,0.9,0.5
+Lebanon,0.744,0.5
+El Salvador,0.673,0.4857
+Tanzania,0.529,0.4857
+Guinea,0.592,0.4857
+Guinea,0.555,0.4857
+Guinea,0.48,0.4857
+Guinea,0.477,0.4857
+Costa Rica,0.81,0.4857
+Algeria,0.748,0.4857
+Tunisia,0.74,0.4714
+Sierra Leone,0.452,0.4714
+Belize,0.716,0.4714
+Paraguay,0.728,0.4714
+Kazakhstan,0.825,0.4571
+Liberia,0.48,0.4571
+Hungary,0.854,0.4571
+Gabon,0.703,0.4571
+Nicaragua,0.66,0.4429
+Zimbabwe,0.571,0.4429
+Cameroon,0.563,0.4429
+Botswana,0.735,0.4429
+Brazil,0.765,0.4429
+Burkina Faso,0.452,0.4429
+Serbia,0.806,0.4286
+Lesotho,0.527,0.4286
+Rwanda,0.543,0.4143
+Philippines,0.718,0.4143
+Nigeria,0.539,0.4
+Burundi,0.433,0.4
+Angola,0.581,0.3857
+Venezuela,0.711,0.3857
+Ethiopia,0.485,0.3857
+Haiti,0.51,0.3714
+Libya,0.724,0.3714
+Uganda,0.544,0.3714
+Yemen,0.47,0.3714
+Myanmar,0.583,0.3714
+Mauritania,0.546,0.3714
+Armenia,0.776,0.3571
+Moldova,0.75,0.3429
+Zambia,0.584,0.3286
+Malawi,0.483,0.3
+Bosnia and Herzegovina,0.78,0.3
+Bolivia,0.718,0.3
+Bhutan,0.654,0.2857
+Tajikistan,0.668,0.2857
+Chad,0.398,0.2857
+Mali,0.434,0.2714
+Nepal,0.602,0.2286
+Mongolia,0.737,0.2
