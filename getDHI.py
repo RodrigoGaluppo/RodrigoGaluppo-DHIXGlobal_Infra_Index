@@ -41,7 +41,7 @@ for item in scores:
         if i == len(listedCountries):
             break
 
-        scoresByCountry.append(round(float(item.text),4))
+        scoresByCountry.append(round(float(item.text), 4))
         i += 1
     except Exception:
         pass
